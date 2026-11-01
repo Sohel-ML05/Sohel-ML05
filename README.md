@@ -1,7 +1,7 @@
 <!-- GITHUB PROFILE: Sohel-ML05 | Midnight Tech Theme -->
 
 <div align="center">
-  <img src="./assets/"
+  <img src="./assets/a_wide_futuristic_high_tech_cyber_tech_wallpaper.png"
        width="100%"
        alt="Linux HPC AI Networking Banner"/>
 </div>
