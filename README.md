@@ -1,11 +1,10 @@
 <!-- GITHUB PROFILE: Sohel-ML05 | Midnight Tech Theme -->
 
 <div align="center">
-  <img src="./asset/a_wide_futuristic_high_tech_cyber_tech_wallpaper.png"
+  <img src="./assets/asset.png"
        width="100%"
-       alt="Linux HPC AI Networking Banner"/>
+       alt="Linux, HPC, AI and Networking Banner" />
 </div>
-
 # SAYYAD SOHEL
 
 ### Aspiring IT Professional | Linux Administrator | Network Engineer | HPC-AI Learner
