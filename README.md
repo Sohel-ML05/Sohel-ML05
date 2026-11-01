@@ -1,10 +1,10 @@
 <!-- GITHUB PROFILE: Sohel-ML05 | Midnight Tech Theme -->
 
 <div align="center">
-
-<img src="assets/hero-banner.png" width="100%" alt="Linux, HPC, AI and Networking Technology Banner" />
-
-<br/>
+  <img src="./assets/"
+       width="100%"
+       alt="Linux HPC AI Networking Banner"/>
+</div>
 
 # SAYYAD SOHEL
 
