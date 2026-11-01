@@ -1,7 +1,7 @@
 <!-- GITHUB PROFILE: Sohel-ML05 | Midnight Tech Theme -->
 
 <div align="center">
-  <img src="./assets/asset.png"
+  <img src="./asset/asset.png"
        width="100%"
        alt="Linux, HPC, AI and Networking Banner" />
 </div>
